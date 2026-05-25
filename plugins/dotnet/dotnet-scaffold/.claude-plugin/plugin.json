@@ -1,0 +1,15 @@
+﻿{
+  "name": "dotnet-scaffold",
+  "version": "0.1.0",
+  "description": "Scaffolds .NET solutions with your chosen architecture, projects, messaging, and build tooling",
+  "author": {
+    "name": "Mandy Feeney"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dotnet",
+    "scaffold",
+    "clean-architecture",
+    "csharp"
+  ]
+}
